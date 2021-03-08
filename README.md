@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=connuh&repo=dog&cache_seconds=86400&theme=default">
+</p>
+
 # Dog - an API wrapper. 🐶
 ### API Wrapper for [TheDogAPI.com](https://thedogapi.com) written in [Deno](https://deno.land)!
 ---
